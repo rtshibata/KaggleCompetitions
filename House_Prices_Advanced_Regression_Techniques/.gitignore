@@ -1,0 +1,6 @@
+#jupyter notebook files
+.ipynb_checkpoints/
+
+#python byte compiled files
+__pycache__/
+*.py[co]
